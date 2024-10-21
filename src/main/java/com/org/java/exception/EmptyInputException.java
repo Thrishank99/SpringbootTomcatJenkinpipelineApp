@@ -28,5 +28,4 @@ public class EmptyInputException extends RuntimeException {
 	}
 	public EmptyInputException() {
 	}
-
 }
